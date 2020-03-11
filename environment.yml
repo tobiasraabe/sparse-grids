@@ -1,0 +1,8 @@
+name: sparse-grids
+channels:
+  - opensourceeconomics
+  - conda-forge
+dependencies:
+  - python=3.7
+  - respy=2.0.0dev2
+  - jupyterlab
