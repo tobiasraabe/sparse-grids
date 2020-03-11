@@ -4,4 +4,3 @@
 - Generate a virtual environment by opening a terminal in the root directory of this repo and typing
     - `conda env create -f environment.yml`
     - `conda activate sparse-grids`
-
